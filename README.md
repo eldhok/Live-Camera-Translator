@@ -25,6 +25,4 @@ To build and run the app, clone this project, open it as an existing project in 
 
 ##Screenshots##
 
-[L!VE TRANSLATOR.pdf](https://github.com/eldhok/Live-Camera-Translator/files/1850847/L.VE.TRANSLATOR.1.pdf)
-
-
+![L!VE TRANSLATOR.pdf](https://github.com/eldhok/Live-Camera-Translator/files/1850847/L.VE.TRANSLATOR.1.pdf)
