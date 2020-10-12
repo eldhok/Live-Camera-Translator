@@ -25,7 +25,6 @@ To build and run the app, clone this project, open it as an existing project in 
 
 ##Screenshots##
 
-![](https://github.com/eldhok/Live-Camera-Translator/blob/master/Page_1.jpg)
 
 ![](https://github.com/eldhok/Live-Camera-Translator/blob/master/Page_2.jpg)
 
